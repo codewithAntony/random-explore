@@ -5,7 +5,7 @@ import Randomize from './components/Randomize'
 function App() {
 
   return (
-    <div className="bg-[#F2F6FF]">
+    <div className="">
       <Header />
       < Randomize />
     </div>
